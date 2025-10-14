@@ -6,10 +6,10 @@
 
 <div align="center"></div>
 
-
+###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Luvienna.Luvienna&left_color=deeppink&right_color=lightpink&left_text=Projects"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Luvienna.Luvienna&left_color=deeppink&right_color=lightpink&left_text=View"  />
 </div>
 
 
@@ -21,6 +21,8 @@
 <h3 align="left">About Me</h3>
 <p align="left"> Hello, I’m Luvienna👋<br><br>A self-taught developer and student with over 1.5 years dedicated to building high-quality digital experiences. My passion is the Front-End development, blending aesthetics with functionality.
 
+
+###
 
 <h3 aling-"lift">My Goal</h3>
 While front end is my expertise, I operate with a strong "learn everything" mindset. My next step, is to leverage my front-end skills as a direct pathway to mastering full-stack development and engaging with complex enterprise software and system integration.<br><br><br></p>
