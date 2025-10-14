@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Luvienna.Luvienna&left_color=deeppink&right_color=lightpink&left_text=View"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Luvienna.Luvienna&left_color=deeppink&right_color=lightpink&left_text=Views"  />
 </div>
 
 
