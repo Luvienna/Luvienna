@@ -4,8 +4,7 @@
 
 
 
-<div align="center">
-</div>
+<div align="center"></div>
 
 
 
@@ -19,17 +18,15 @@
 
 
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
+<p align="left"> Hello, I’m Luvienna👋<br><br>A self-taught developer and student with over 1.5 years dedicated to building high-quality digital experiences. My passion is the Front-End development, blending aesthetics with functionality.
 
 
-
-<p align="left">## Hello, I’m Luvienna👋<br><br>A self-taught developer and student with over 1.5 years dedicated to building high-quality digital experiences.<br><br>My passion is the **Front End** development, blending aesthetics with functionality.<br><br>
-### My Goal<br><br>While front end is my expertise, I operate with a strong "learn everything" mindset. My next step, is to leverage my front-end skills as a direct pathway to mastering **full-stack development** and engaging with complex **enterprise software and system integration**.<br><br><br>***</p>
-
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 aling-"lift">My Goal</h3>
+While front end is my expertise, I operate with a strong "learn everything" mindset. My next step, is to leverage my front-end skills as a direct pathway to mastering full-stack development and engaging with complex enterprise software and system integration.<br><br><br></p>
 
 
+<h3 align="left">Language and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -52,12 +49,12 @@
 </div>
 
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"> My Stats :</h3>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luvienna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
