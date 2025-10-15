@@ -47,9 +47,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Luvienna/Luvienna/output/snake.svg" alt="Snake animation" />
-
-###
